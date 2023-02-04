@@ -4,8 +4,8 @@ import pickle
 import numpy as np
 
 app = Flask(__name__)
-model = pickle.load(open(".\insurance_claim_model.pickle", 'rb'))
-_data_columns = json.load(open(".\columns.json", "r"))['data_columns']
+model = pickle.load(open("insurance_claim_model.pickle", 'rb'))
+_data_columns = json.load(open("columns.json", "r"))['data_columns']
 
 @app.route('/')
 def hello():
