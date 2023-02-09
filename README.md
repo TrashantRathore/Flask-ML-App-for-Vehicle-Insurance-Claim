@@ -9,3 +9,7 @@ The Insurance Claim is Authentic
 ![Screenshot (8)](https://user-images.githubusercontent.com/44944830/216769783-52895686-f96d-45a2-ba8c-4aeb1878bc1c.png)
 The Insurance Claim is Not Authentic
 ![Screenshot (9)](https://user-images.githubusercontent.com/44944830/216769814-d5718e4a-fa66-4382-be81-5f6e141a137f.png)
+
+
+This app has been deployed using Render 
+You can access the app at : https://vehicle-insurance-claim-flask-app.onrender.com/
