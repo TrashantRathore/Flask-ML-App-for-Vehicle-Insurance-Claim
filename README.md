@@ -22,10 +22,10 @@ This is a POC project made using DS concepts and using ML algorithms whose end r
 
 ## How to run the Project
 * Clone this repository
-* Create a new environment <sub>conda create -n newenv python==3.6</sub>
+* Create a new environment <code>conda create -n newenv python==3.6</code>
 * Open any IDE like Pycharm/VS Code.
-* Then install the requirements.txt file <sub>pip install -r requirements.txt</sub>
-* All successful installation of all requirements now run the python app using <sub>python app.py</sub>
+* Then install the requirements.txt file <code>pip install -r requirements.txt</code>
+* All successful installation of all requirements now run the python app using <code>python app.py</code>
 
 ## Technologies
 * Python
